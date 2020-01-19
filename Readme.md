@@ -6,3 +6,5 @@ Teste de status no git
 > desfazendo coisas
 
 > fazendo alteraçao no arquivo dentro já do GitHub
+
+> editing in masterBranch
